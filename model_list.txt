@@ -1,0 +1,29 @@
+#Decoder Only Models
+
+1. LLMs (Base)
+unsloth/Qwen3-8B-Base-unsloth-bnb-4bit
+unsloth/Qwen3-14B-Base-unsloth-bnb-4bit
+unsloth/mistral-7b-instruct-v0.2-bnb-4bit
+unsloth/gemma-7b-bnb-4bit
+unsloth/phi-4-unsloth-bnb-4bit
+unsloth/Meta-Llama-3.1-8B-bnb-4bit
+unsloth/gpt-oss-20b-unsloth-bnb-4bit
+
+2. LLMs (Thinking/Reasoning)
+unsloth/Qwen3-4B-Thinking-2507-unsloth-bnb-4bit
+unsloth/Phi-4-reasoning-plus-unsloth-bnb-4bit
+unsloth/phi-4-reasoning-unsloth-bnb-4bit
+
+
+
+
+#Encoder-Decoder Models
+google/flan-t5-large (0.8 B)
+google/flan-t5-xxl (11 B)
+facebook/bart-large
+
+
+
+#Encoder-Only Models
+google-bert/bert-large-uncased
+

@@ -1,0 +1,12 @@
+pyarrow
+pandas
+numpy
+transformers
+unsloth
+torch
+matplotlib
+seaborn
+datasets
+trl
+yaml
+wandb

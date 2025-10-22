@@ -1,0 +1,4 @@
+model: "unsloth/Qwen3-14B-Base-unsloth-bnb-4bit"
+max_seq_len: 2048
+epochs: 3
+learning_rate: 5e-5
