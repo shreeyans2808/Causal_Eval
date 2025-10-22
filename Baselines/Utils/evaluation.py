@@ -167,15 +167,15 @@ def main():
 
     print("dataset ready")
 
-    predict = prepare_model(
-        provider="nvidia-nim",  # or "openai", "hf-api", "hf-local"
-        model_name="deepseek-r1",
-        # hf_token="hf_...",         # if using HF API
-        # openai_key="sk-...",       # if using OpenAI
-        # deepseek_key="sk-..."      # if using DeepSeek
-        nvidia_api_key = "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"
-    )
-    print("model ready")
+    #predict = prepare_model(
+    #    provider="nvidia-nim",  # or "openai", "hf-api", "hf-local"
+    #    model_name="deepseek-r1",
+    #    # hf_token="hf_...",         # if using HF API
+    #    # openai_key="sk-...",       # if using OpenAI
+    #    # deepseek_key="sk-..."      # if using DeepSeek
+    #    nvidia_api_key = 
+    #)
+    #print("model ready")
     # accuracy = evaluate.load("accuracy")
     results = []
 
